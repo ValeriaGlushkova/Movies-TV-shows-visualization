@@ -11,3 +11,5 @@
 
 ### Цель:
 Изучить данные и визуализировать информацию.
+
+Код [здесь](https://github.com/ValeriaGlushkova/Movies-TV-shows-visualization/blob/main/movies.ipynb)
